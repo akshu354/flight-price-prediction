@@ -44,7 +44,9 @@ The objective of this project is to:
 ```
 pip install -r requirements.txt
 ```
-3. Jupyter Notebook
+3. Open Jupyter Notebook
+```
+```
 
 ## Future Improvements
 
@@ -54,5 +56,6 @@ pip install -r requirements.txt
 ## Author
 
 Akshat Jain
-
-Aspiring Data Analyst| Machine Learning Enthusiast| Python
+Aspiring Data Analyst| Machine Learning Enthusiast| 
+Skilled in Python, SQL, and Data Analysis
+LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250
