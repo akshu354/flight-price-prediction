@@ -56,6 +56,7 @@ pip install -r requirements.txt
 ## Author
 
 Akshat Jain
+
 Aspiring Data Analyst| Machine Learning Enthusiast| 
 Skilled in Python, SQL, and Data Analysis
 
