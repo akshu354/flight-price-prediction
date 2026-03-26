@@ -1,12 +1,12 @@
 # Flight Price Prediction
 
-The project builds a Machine Learning model to predict flight ticket prices based on factors like airline, route, journey date, duration, and number of stops.
+The project develops a Machine Learning model to predict flight ticket prices based on factors such as airline, route, departure date, duration, and number of stops.
 It helps understand pricing patterns and enables data-driven decision-making for travellers.
 
 ## Problem Statement
 
-Flight ticket prices fluctuate due to multiple factors such as demand, booking time, route, and seasonality.
-The objective of this prroject is to:
+Flight ticket prices fluctuate due to multiple factors, including demand, booking time, route, and seasonality.
+The objective of this project is to:
 - Predict flight prices accurately
 - Identify key factors influencing price variations
 
@@ -23,6 +23,8 @@ The objective of this prroject is to:
 
 ## Project Structure
 
+- 'data/' -> Dataset used for training
+- 'notebooks/' -> Main ML notebook
 
 ## Architecture
 
@@ -30,8 +32,8 @@ The objective of this prroject is to:
 
 ## Key Insights
 
-- Ticket prices increases significantly closer to departure date
-- Flight with more stops are generally cheaper
+- Ticket prices increase significantly closer to the departure date
+- Flights with more stops are generally cheaper
 - Peak seasons (holidays, summer) show higher price trends
 - Route and distance play a major role in pricing
 
@@ -47,9 +49,9 @@ pip install -r requirements.txt
 ## Future Improvements
 
 - Try advanced models like XGBoost
-- Depoly using Flask/Streamlit
+- Deploy using Flask/Streamlit
 
 ## Author
 
 - Akshat Jain
-  Aspiring Data Analyst| Machine Learning Enthusiast| Python
+- Aspiring Data Analyst| Machine Learning Enthusiast| Python
