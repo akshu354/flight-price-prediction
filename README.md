@@ -1,7 +1,7 @@
 # Flight Price Prediction
 
-The project develops a Machine Learning model to predict flight ticket prices based on factors such as airline, route, departure date, duration, and number of stops.
-It helps understand pricing patterns and enables data-driven decision-making for travellers.
+- The project develops a Machine Learning model to predict flight ticket prices based on factors such as airline, route, departure date, duration, and number of stops.
+- It helps understand pricing patterns and enables data-driven decision-making for travellers.
 
 ## Problem Statement
 
@@ -58,4 +58,5 @@ pip install -r requirements.txt
 Akshat Jain
 Aspiring Data Analyst| Machine Learning Enthusiast| 
 Skilled in Python, SQL, and Data Analysis
+
 LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250
