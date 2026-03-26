@@ -1,6 +1,7 @@
 # Flight Price Prediction
 
-- The project develops a Machine Learning model to predict flight ticket prices based on factors such as airline, route, departure date, duration, and number of stops.
+- Built a Machine Learning model achieving ~90% accuracy in predicting flight ticket prices
+- The project builds a Machine Learning model to predict flight ticket prices based on factors such as airline, route, departure date, duration, and number of stops.
 - It helps understand pricing patterns and enables data-driven decision-making for travellers.
 
 ## Problem Statement
@@ -46,6 +47,7 @@ pip install -r requirements.txt
 ```
 3. Open Jupyter Notebook
 ```
+jupyter notebook
 ```
 
 ## Future Improvements
