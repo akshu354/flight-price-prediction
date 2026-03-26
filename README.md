@@ -1,1 +1,55 @@
-# flight-price-prediction
+# Flight Price Prediction
+
+The project builds a Machine Learning model to predict flight ticket prices based on factors like airline, route, journey date, duration, and number of stops.
+It helps understand pricing patterns and enables data-driven decision-making for travellers.
+
+## Problem Statement
+
+Flight ticket prices fluctuate due to multiple factors such as demand, booking time, route, and seasonality.
+The objective of this prroject is to:
+- Predict flight prices accurately
+- Identify key factors influencing price variations
+
+## Key Metrics
+
+- Model: Random Forest Regressor
+- MAE: ~316
+- RMSE: ~667
+
+## Tech Stack
+
+- Language: Python
+- Libraries: pandas, numpy, scikit-learn
+
+## Project Structure
+
+
+## Architecture
+
+- Data Collection -> Data Cleaning & Preprocessing -> Feature Engineering -> Model Training (Random Forest) -> Model Evaluation
+
+## Key Insights
+
+- Ticket prices increases significantly closer to departure date
+- Flight with more stops are generally cheaper
+- Peak seasons (holidays, summer) show higher price trends
+- Route and distance play a major role in pricing
+
+## How to Run
+
+1. Clone the repository
+2. Install dependencies
+```
+pip install -r requirements.txt
+```
+3. Jupyter Notebook
+
+## Future Improvements
+
+- Try advanced models like XGBoost
+- Depoly using Flask/Streamlit
+
+## Author
+
+- Akshat Jain
+  Aspiring Data Analyst| Machine Learning Enthusiast| Python
