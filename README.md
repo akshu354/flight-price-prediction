@@ -57,9 +57,7 @@ jupyter notebook
 
 ## Author
 
-Akshat Jain
-
-Aspiring Data Analyst| Machine Learning Enthusiast| 
-Skilled in Python, SQL, and Data Analysis
-
+Akshat Jain  
+Aspiring Data Analyst| Machine Learning Enthusiast|   
+Skilled in Python, SQL, and Data Analysis  
 LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250
